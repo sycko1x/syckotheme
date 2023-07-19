@@ -1,9 +1,9 @@
 /**
-* @name Sycko's Anime Theme
+* @name CityOfStars
 * @author lovesycko
-* @version 1.0
+* @version 1.1
 * @description An easily customizable and automatically updating theme
-* @invite https://discord.gg/CxEdsEva
+* @invite FdZhbjY
 */
 
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
@@ -24,12 +24,12 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(173, 2, 2);
+  --main-theme-color: rgb(126, 0, 0);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(136, 136, 136, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
     Home Icon Image
@@ -76,7 +76,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: rgb(255, 255, 255);;
 
   /*
     Video / Screen share buttons
@@ -114,7 +114,7 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(255, 255, 255, 0.6);
+  --message-box-transparency: rgba(0, 0, 0, 0.6);
 
   /*
     Embed Background Transparency
@@ -152,13 +152,13 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #00a1f8;
-  --unread-message-divider-font-color: #fff;
+  --unread-message-divider-color: #00aeff;
+  --unread-message-divider-font-color: rgb(255, 255, 255);
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #2e3f7e;
+  --new-messages-bar-background-color: #283879;
   --new-messages-bar-font-color: #fff;
 
   /*
