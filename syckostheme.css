@@ -6,8 +6,6 @@
 * @invite https://discord.gg/CxEdsEva
 */
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
-
 /*
   To make editing this theme easier I recommend using Notepad++
   you can download it for free here https://notepad-plus-plus.org/download/
@@ -24,7 +22,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(174, 0, 0);
+  --main-theme-color: rgb(173, 2, 2);
 
   /*
     Main Theme Transparency
@@ -70,7 +68,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(255, 255, 255);
 
   /*
     Change the unread server animation.
@@ -114,7 +112,7 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(0, 0, 0, 0.6);
+  --message-box-transparency: rgba(255, 255, 255, 0.6);
 
   /*
     Embed Background Transparency
